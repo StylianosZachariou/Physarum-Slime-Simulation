@@ -1,12 +1,12 @@
 # Physarum Slime Simulation
 
 
-## Background:
+### Background:
 
 <img src="https://user-images.githubusercontent.com/59959821/162450520-e2ba8dd9-6489-4ae1-bc03-f5d7c323786c.jpg" width="300">
 Physarum Polysephalum is a type of slime mold that specializes in growth, movement and area reduction. Due to these characteristics, this slime mold is efficient at finding the shortest path between any amount of given points.
 
-## Slime Simulation
+### Slime Simulation
 
 The above described behaviour can be replicated by simulating a large number of particles which follow the same movement principles as Physarum Polycephalum. To efficiently simulate over 500000 slime particles, GPGPU (AMP in C++) was used.
 
@@ -16,7 +16,7 @@ The above described behaviour can be replicated by simulating a large number of 
 A description of the techniques and kernels used can be found in a presentation format here:
 [Slime.pdf](https://github.com/StylianosZachariou/Physarum-Slime-Simulation/files/8452681/Slime.pdf)
 
-## The Application
+### The Application
 A zip file containing the executable can be downloaded in the Release page or [here](https://github.com/StylianosZachariou/Physarum-Slime-Simulation/releases/download/1.0/executable.zip). As soon as the application is launched, the slime simulation begins. The user has some control when reseting the simulation:
 
 1- Place particles in a centered square.
