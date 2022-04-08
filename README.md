@@ -13,8 +13,7 @@ The above described behaviour can be replicated by simulating a large number of 
 <img src="https://user-images.githubusercontent.com/59959821/162447996-9e8953b0-ac9d-444f-b3ec-f1b502d936bb.png" width="400">
 
 
-A description of the techniques and kernels used can be found in a presentation format here:
-[Slime.pdf](https://github.com/StylianosZachariou/Physarum-Slime-Simulation/files/8452681/Slime.pdf)
+A description of the techniques and kernels used can be found in a presentation format [here](https://github.com/StylianosZachariou/Physarum-Slime-Simulation/files/8452681/Slime.pdf)
 
 ### The Application
 A zip file containing the executable can be downloaded in the Release page or [here](https://github.com/StylianosZachariou/Physarum-Slime-Simulation/releases/download/1.0/executable.zip). As soon as the application is launched, the slime simulation begins. The user has some control when reseting the simulation:
