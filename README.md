@@ -16,3 +16,9 @@ The above described behaviour can be replicated by simulating a large number of 
 A description of the techniques and kernels used can be found in a presentation format here:
 [Slime.pdf](https://github.com/StylianosZachariou/Physarum-Slime-Simulation/files/8452681/Slime.pdf)
 
+## The Application
+A zip file containing the executable can be downloaded in the Release page or [here](https://github.com/StylianosZachariou/Physarum-Slime-Simulation/releases/download/1.0/executable.zip). As soon as the application is launched, the slime simulation begins. The user has some control when reseting the simulation:
+1- Place particles in a centered square.
+2- Spread the particles throught the scene.
+3- Place particles in the center pixel assigning them with random rotations.
+Each of these can be triggered using the respecttie number keys on the keyboard. 
