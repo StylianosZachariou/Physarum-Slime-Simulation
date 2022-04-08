@@ -13,3 +13,6 @@ The above described behaviour can be replicated by simulating a large number of 
 <img src="https://user-images.githubusercontent.com/59959821/162447996-9e8953b0-ac9d-444f-b3ec-f1b502d936bb.png" width="400">
 
 
+A description of the techniques and kernels used can be found in a presentation format here:
+[Slime.pdf](https://github.com/StylianosZachariou/Physarum-Slime-Simulation/files/8452681/Slime.pdf)
+
