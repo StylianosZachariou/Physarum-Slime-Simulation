@@ -25,4 +25,6 @@ A zip file containing the executable can be downloaded in the Release page or [h
 
 3- Place particles in the center pixel assigning them with random rotations.
 
-Each of these can be triggered using the respective number keys on the keyboard. 
+Each of these can be triggered using the respective number keys on the keyboard.
+
+**Warning: The application is computationally heavy and a good graphics card is recomended for it to function as expected.**
