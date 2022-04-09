@@ -20,15 +20,15 @@ A zip file containing the executable can be downloaded in the Release page or [h
 
 1- Place particles in a centered square.
 
-<img src="https://media.giphy.com/media/zufgNQkdMt17etRdBm/giphy.gif">
+<img src="https://media.giphy.com/media/zufgNQkdMt17etRdBm/giphy.gif" width="400">
 
 2- Spread the particles throught the scene.
 
-<img src="https://media.giphy.com/media/5BNMA9DBgwlLxXlE0H/giphy-downsized.gif">
+<img src="https://media.giphy.com/media/5BNMA9DBgwlLxXlE0H/giphy-downsized.gif" width="400">
 
 3- Place particles in the center pixel assigning them with random rotations.
 
-<img src="https://media.giphy.com/media/Mz2Sq4bhHFYtoi5K3e/giphy-downsized.gif">
+<img src="https://media.giphy.com/media/Mz2Sq4bhHFYtoi5K3e/giphy-downsized.gif" width="400">
 
 Each of these can be triggered using the respective number keys on the keyboard.
 
