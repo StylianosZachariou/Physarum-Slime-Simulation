@@ -20,6 +20,11 @@ A zip file containing the executable can be downloaded in the Release page or [h
 
 1- Place particles in a centered square.
 
+
+https://user-images.githubusercontent.com/59959821/162563286-bab6f236-8d05-430a-b1d6-7fe5a717b5d3.mp4
+
+
+
 2- Spread the particles throught the scene.
 
 3- Place particles in the center pixel assigning them with random rotations.
