@@ -20,7 +20,7 @@ A zip file containing the executable can be downloaded in the Release page or [h
 
 1- Place particles in a centered square.
 
-<img src="https://media.giphy.com/media/zufgNQkdMt17etRdBm/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/zufgNQkdMt17etRdBm/giphy.gif" width="400">
 
 2- Spread the particles throught the scene.
 
