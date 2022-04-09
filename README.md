@@ -28,7 +28,7 @@ A zip file containing the executable can be downloaded in the Release page or [h
 
 3- Place particles in the center pixel assigning them with random rotations.
 
-<img src="https://media.giphy.com/media/5BNMA9DBgwlLxXlE0H/giphy-downsized.gif">
+<img src="https://media.giphy.com/media/5BNMA9DBgwlLxXlE0H/giphy.gif">
 
 Each of these can be triggered using the respective number keys on the keyboard.
 
