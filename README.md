@@ -24,7 +24,7 @@ A zip file containing the executable can be downloaded in the Release page or [h
 
 2- Spread the particles throught the scene.
 
-<img src="https://media.giphy.com/media/Mz2Sq4bhHFYtoi5K3e/giphy.gif">
+<img src="https://media.giphy.com/media/zufgNQkdMt17etRdBm/giphy.gif">
 
 3- Place particles in the center pixel assigning them with random rotations.
 
